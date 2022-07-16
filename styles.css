@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: #212529;
+}
+
+.dog {
+    background-image: url("image/dog-pic.jpg");
+}
+
+.cat {
+    background-image: url("image/cat-pic.jpg");
+}
+
+.cow {
+    background-image: url("image/cow-pic.jpg");
+}
+
+.goat {
+    background-image: url("image/goat-pic.jpg");
+}
+
+.hen {
+    background-image: url("image/hen-pic.jpg");
+}
+
+.sound {
+    font-size: 2rem;
+    color: #052f45;
+    text-shadow: 10px #094c6d;
+    height: 12.6rem;
+    width: 11.5rem;
+    text-align: center;
+    border: 10px solid #343a40;
+    margin: 100px 20px;
+    border-radius: 1.5rem;
+    content-visibility: hidden;
+    
+}
+
+#big-heading {
+    color:  black;
+    font-size: 5rem;
+    text-shadow: 2px 2px 80px white;
+}
+
+#last-footer {
+    font-size: 2rem;
+    color: black;
+    text-shadow: 2px 2px 5px white
+}
+
+
+/*  color: white;
+  text-shadow: 2px 2px 4px #000000*/
